@@ -19,5 +19,5 @@ You must have Chrome or Chromium but this extension is mainly done for [Ungoogle
 
 # Usage
 - Go to the chrome web store page of the extension of your choice
-- Click the extension icon
+- Click the extension icon (![Icon](icon.png))
 - When a popup that asks if you want to install the extension appears, click yes
