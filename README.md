@@ -1,6 +1,13 @@
 # Extension downloader
 Automatically downloads an extension from the web store with ungoogled chromium
 
+# Content overview
+
+- [Installation](#installation)
+  - [Packed](#packed)
+  - [Unpacked](#unpacked)
+- [Usage](#usage)
+
 # Installation
 You must have Chrome or Chromium but this extension is mainly done for [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
 
