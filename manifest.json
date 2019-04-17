@@ -3,13 +3,13 @@
 
   "name": "Extension downloader",
   "description": "Automatically downloads an extension from the web store with ungoogled chromium",
-  "version": "1.0",
+  "version": "1.2",
 
   "browser_action": {
    "default_icon": "icon.png",
    "default_popup": "popup.html"
   },
-  
+
   "permissions": [
    "activeTab"
    ]
