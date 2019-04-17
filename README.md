@@ -1,4 +1,4 @@
-# extension-downloader
+# Extension downloader
 Automatically downloads an extension from the web store with ungoogled chromium
 
 # Installation
